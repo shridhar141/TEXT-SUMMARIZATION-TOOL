@@ -48,7 +48,9 @@ The Text Summarization Tool is a Python-based application that uses the Hugging 
 
 With applications ranging from academic research and business reporting to news summarization and chatbot integration, this tool is a versatile and efficient solution for anyone looking to process large volumes of text quickly. Its key features—like dynamic length adjustment, pre-trained model accuracy, and user-friendly design—make it an essential utility for students, professionals, and content creators alike.
 
+## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/3cc087a3-ab89-4f37-b48d-56c5ff4e571c)
 
 
 
